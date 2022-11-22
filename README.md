@@ -1,14 +1,12 @@
-### Olá eu sou o Felipe P. Parpineli 🎅
-#### Conhecido por muitos como o louco que largou sua carreira como advogado para se tornar programador.
-##### Estes não sabem de nada, bora programar e desenvolver aplicações e soluções para melhorar o mundo! 🌎
+### Hello, I'm Felipe P. Parpineli 🎅
+#### Known by many as that crazy guy who left his career as a lawyer to become a programmer.
+##### These people don't know anything about it, let's program and develop applications and solutions to make the world a better place! 🌎
 
 [![Felipe's Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pozza-parpineli) [![Felipe's Instagram profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/parpineli.fe/)
 
-## G I T H U B  Stats
+## Github  Stats
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipePParpineli&show_icons=true&theme=onedark)
-
-## Tecnologias que uso no meu dia:
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipePParpineli&show_icons=true&theme=radical)
 
 <div style='display: inline_block'></br>
     <img align='center' alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
@@ -20,7 +18,7 @@
     <img align='center' alt='html5' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' />
 </div></br>
 
-O que importa é o grau de comprometimento envolvido numa causa, e não o número de seguidores! 🪄
+What matters is the degree of commitment involved in a cause, not the number of followers.! 🪄
 
-## Me encontre dessa forma ou qualquer outra que souber:
+## Contact me:
 - fpparpineli@gmail.com
